@@ -1,4 +1,4 @@
-Solar Panel Power Meter using an Arduino (ATMega328) with an OLED display.
+Solar Panel Power Meter using an Arduino nano (ATMega328) with an OLED display.
 
 I'm using the U8glib library so pretty much any LCD/OLED display could be used.
 
